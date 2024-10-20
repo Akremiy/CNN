@@ -1,5 +1,3 @@
-Here's the updated README with the correct file name:
-
 # CNN for CIFAR-10 Classification
 
 This project implements a Convolutional Neural Network (CNN) using PyTorch to classify images from the CIFAR-10 dataset. The CNN is trained to recognize 10 different classes of objects, including planes, cars, birds, and more.
